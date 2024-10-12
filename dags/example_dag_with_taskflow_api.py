@@ -1,6 +1,6 @@
 # DAG exhibiting task flow paradigm in airflow 2.0
 # https://airflow.apache.org/docs/apache-airflow/2.0.2/tutorial_taskflow_api.html
-# Modified for our use case
+# Modified for your use case
 
 import json
 from airflow.decorators import dag, task
